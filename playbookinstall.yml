@@ -1,3 +1,4 @@
+---
 - name: Playbook to Install Maven and Docker
   hosts: webserver
   become: true
